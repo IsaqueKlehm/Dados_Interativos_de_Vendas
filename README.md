@@ -6,7 +6,7 @@ Este projeto consiste em um **dashboard interativo de vendas** desenvolvido com 
 
 ## 🚀 Tecnologias Utilizadas
 
-* **Python 3**
+* **Python 3.12.10**
 * **Streamlit** – Criação da aplicação web interativa
 * **Pandas** – Manipulação e análise de dados
 * **Requests** – Consumo da API
